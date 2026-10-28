@@ -1,0 +1,14 @@
+[
+  {
+    "file": "bell.wav",
+    "name": "溫柔鈴聲"
+  },
+  {
+    "file": "chime.wav",
+    "name": "清脆提示"
+  },
+  {
+    "file": "urgent.wav",
+    "name": "明顯提醒"
+  }
+]
