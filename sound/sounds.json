@@ -11,4 +11,12 @@
     "file": "urgent.wav",
     "name": "明顯提醒"
   }
+{
+    "file": "Grandfather.mp3",
+    "name": "爺爺專屬"
+  },
+{
+    "file": "Grandmather.mp3",
+    "name": "奶奶專屬"
+  }
 ]
